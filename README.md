@@ -2,7 +2,7 @@ ZAWORLDOTHEBOT
 
 
 
-*I use an .env file (who is hide by the repl.it IDE) for the token so you can just replace the "token" by your own token  
+*I use an .env file (who is hide by the repl.it IDE) for the token so you can just replace the "token" by yours  
 
 
 
