@@ -7,7 +7,7 @@ import random
 
 client = discord.Client()
 
-ban_words =  ["fuck", "bitch", "salope", "pute", "merde"]
+ban_words =  ["Fuck","Bitch","Salope","Pute","Merde","fuck", "bitch", "salope", "pute", "merde"]
 
 ban_words_response = ["votre phrase contient un ou des mots NSFW", "veuillez surveuiller votre langage svp", "votre message contient un ou des mots NSFW ce qui est passible de bannissement"]
 def get_quote():
